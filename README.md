@@ -1,4 +1,4 @@
-# SlideAI — AI Presentation Maker (Vercel)
+# SlideAI — AI Presentation Maker
 
 Full-stack AI presentation generator built with Next.js 15 App Router and Vercel Postgres.
 
